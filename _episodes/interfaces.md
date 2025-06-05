@@ -98,7 +98,7 @@ end program
 </div>
 
 ~~~
-$ gfortran interface_blocks.f90 interface_blocks
+$ gfortran interface_blocks.f90 -o interface_blocks
 $ ./interface_blocks
 ~~~
 {: .bash}

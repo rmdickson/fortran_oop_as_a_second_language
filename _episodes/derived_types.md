@@ -105,7 +105,7 @@ module m_vector
     real,dimension(:),allocatable:: elements
   end type
   
-  contains
+<div class="codehighlight">  contains</div>
   
 <div class="codehighlight">  type(t_vector) function create_empty_vector()
     implicit none

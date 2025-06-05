@@ -21,7 +21,7 @@ end type
 ~~~
 {: .fortran}
 
-Then as we did for the `display` subroutine, we can create a `<type-finalization-subroutine>` to do anything that needs to be done when an object of this type goes out of scope, including deallocating memory.
+Then as we did for the `display` subroutine, we can create a `<type-finalization-subroutine>` to do anything what needs to be done when an object of this type goes out of scope, including deallocating memory.
 
 Lets add destructors to deallocate our memory for our two derived types.
 

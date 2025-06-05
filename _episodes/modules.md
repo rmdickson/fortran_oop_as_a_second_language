@@ -13,6 +13,8 @@ keypoints:
 - "Access to variables and procedures within the module can be controlled with the private and public access modifiers."
 ---
 
+You have already been introduced to Modules in the earlier part of the workshop, but since they are very important for OOP design we will review them quickly.
+
 Modules allow procedures (functions and subroutines) and variables to be grouped together as well as some other constructs we will talk about later. 
 
 A module is declared as shown below.
